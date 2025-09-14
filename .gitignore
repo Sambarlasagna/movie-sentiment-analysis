@@ -1,0 +1,10 @@
+# Ignore Python virtual environment folders
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore all CSV files
+*.csv
+
+data/**
