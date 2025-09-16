@@ -1,5 +1,7 @@
 # Movie Sentiment Analysis with CNN
 
+Code: - https://colab.research.google.com/drive/1sr6UA_ZEOf5lv6JcUR4gvAC4sqo1zMA4?usp=sharing
+
 This project implements a deep learning model using a Convolutional Neural Network (CNN) to analyze movie reviews and predict their sentiment (positive or negative). The model is trained and evaluated on the IMDB dataset using PyTorch and TorchText.
 
 ## Features
